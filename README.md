@@ -10,7 +10,8 @@ stage 1
 >>other_function.py  
 >>old_funtion.py  
 >>test.py  
->>Daily_indicator.py  
+>>Daily_indicator.py
+  
 stage 2
 ---  
 >Planning:  
